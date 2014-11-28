@@ -1,9 +1,10 @@
 @charset "UTF-8";
 /* Sample CSS Document */
 
-#eagleLogo { float: right;
+#eagleLogo { float: right;}
 
-}
+Body {background-color: Mistyrose;}
+
 
 h1 {
 
