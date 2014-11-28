@@ -5,6 +5,15 @@
 
 }
 
-h1 {
-
+span {
+	color: #c0071e;
+	font-weight: bold;
+}
+.eslrTitle {
+	color: #c0071e;
+	font-weight: bold;
+	font-family: "Comic Sans MS";
+}
+li {
+	color: #0000CD;
 }
