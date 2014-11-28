@@ -2,9 +2,15 @@
 /* Sample CSS Document */
 
 #eagleLogo {
-
+float: right;
 }
 
 h1 {
-
+color: blue;
+}
+h2 {
+    color: white; background-color: steelblue;
+}
+span {
+    color: crimson;
 }
