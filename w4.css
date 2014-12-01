@@ -19,6 +19,7 @@ float: right; border-bottom-style:solid; border-bottom-color:black; border-left:
 }
 
 h1 {
+<<<<<<< HEAD
 color: blue;
 }
 h2 {
@@ -35,6 +36,13 @@ p {
 }
 #topMenu {
     color: blue;
+=======
+}
+
+a:hover {
+	color: blue;
+	background-color: #def;
+>>>>>>> Srijith-Kannan-CTD-1
 }
 #eagleBottom {
     border-bottom-style:solid; border-bottom-color:black; border-left: solid; border-left-color:black;  border-right-style: solid; border-right-color:black; border-top-style: solid; border-top-color:black;
