@@ -1,10 +1,15 @@
 @charset "UTF-8";
 /* Sample CSS Document */
 
-#eagleLogo {
-
+.eslrTitle {
+	color: #c0071e;
+	font-weight: bold;
+	font-family: "Comic Sans MS";
+}
+li {
+	color: #0000CD;
 }
 
-h1 {
-
+#eagleLogo {
+	float: right;
 }
