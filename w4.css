@@ -1,34 +1,37 @@
 @charset "UTF-8";
 /* Sample CSS Document */
+h1 {
+	color: blue;
+}
+h2 {
+	color: white;
+	background-color: steelblue;
+}
 .eslrTitle {
 	color: #c0071e;
 	font-weight: bold;
 	font-family: "Comic Sans MS";
 }
-li {
-	color: #0000CD;
-}
 #eagleLogo {
-float: right;
-border-bottom-style:solid;
-border-bottom-color:black;
-border-left: solid;
-border-left-color:black;
-border-right-style: solid;
-border-right-color:black;
-border-top-style: solid;
-border-top-color:black;
+	float: right;
+	border-bottom-style:solid;
+	border-bottom-color:black;
+	border-left: solid;
+	border-left-color:black;
+	border-right-style: solid;
+	border-right-color:black;
+	border-top-style: solid;
+	border-top-color:black;
+}
+a:hover {
+	color: blue;
+	background-color: #def;
 }
 Body {
 	background-color: Mistyrose;
 }
-
-h1 {
-	color: blue;
-}
-h2 {
-    color: white;
-		background-color: steelblue;
+li {
+	color: #0000CD;
 }
 span {
     color: crimson;
@@ -41,13 +44,6 @@ p {
 }
 #topMenu {
     color: blue;
-======
-}
-
-a:hover {
-	color: blue;
-	background-color: #def;
->>>>>>> Srijith-Kannan-CTD-1
 }
 #eagleBottom {
     border-bottom-style:solid;
