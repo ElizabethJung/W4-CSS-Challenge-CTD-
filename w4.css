@@ -1,8 +1,5 @@
 @charset "UTF-8";
 /* Sample CSS Document */
-
-<<<<<<< HEAD
-<<<<<<< HEAD
 .eslrTitle {
 	color: #c0071e;
 	font-weight: bold;
@@ -11,26 +8,27 @@
 li {
 	color: #0000CD;
 }
-
 #eagleLogo {
-	float: right;
-=======
-#eagleLogo {
-float: right; border-bottom-style:solid; border-bottom-color:black; border-left: solid; border-left-color:black;  border-right-style: solid; border-right-color:black; border-top-style: solid; border-top-color:black;
+float: right;
+border-bottom-style:solid;
+border-bottom-color:black;
+border-left: solid;
+border-left-color:black;
+border-right-style: solid;
+border-right-color:black;
+border-top-style: solid;
+border-top-color:black;
 }
-=======
-#eagleLogo { float: right;}
-
-Body {background-color: Mistyrose;}
-
->>>>>>> Elizabeth-Chung
+Body {
+	background-color: Mistyrose;
+}
 
 h1 {
-<<<<<<< HEAD
-color: blue;
+	color: blue;
 }
 h2 {
-    color: white; background-color: steelblue;
+    color: white;
+		background-color: steelblue;
 }
 span {
     color: crimson;
@@ -43,7 +41,7 @@ p {
 }
 #topMenu {
     color: blue;
-=======
+======
 }
 
 a:hover {
@@ -52,6 +50,12 @@ a:hover {
 >>>>>>> Srijith-Kannan-CTD-1
 }
 #eagleBottom {
-    border-bottom-style:solid; border-bottom-color:black; border-left: solid; border-left-color:black;  border-right-style: solid; border-right-color:black; border-top-style: solid; border-top-color:black;
->>>>>>> Jet
+    border-bottom-style:solid;
+		border-bottom-color:black;
+		border-left: solid;
+		border-left-color:black;
+		border-right-style: solid;
+		border-right-color:black;
+		border-top-style: solid;
+		border-top-color:black;
 }
