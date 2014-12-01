@@ -2,6 +2,7 @@
 /* Sample CSS Document */
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .eslrTitle {
 	color: #c0071e;
 	font-weight: bold;
@@ -17,6 +18,12 @@ li {
 #eagleLogo {
 float: right; border-bottom-style:solid; border-bottom-color:black; border-left: solid; border-left-color:black;  border-right-style: solid; border-right-color:black; border-top-style: solid; border-top-color:black;
 }
+=======
+#eagleLogo { float: right;}
+
+Body {background-color: Mistyrose;}
+
+>>>>>>> Elizabeth-Chung
 
 h1 {
 <<<<<<< HEAD
