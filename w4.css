@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /* Sample CSS Document */
 
+<<<<<<< HEAD
 .eslrTitle {
 	color: #c0071e;
 	font-weight: bold;
@@ -12,4 +13,30 @@ li {
 
 #eagleLogo {
 	float: right;
+=======
+#eagleLogo {
+float: right; border-bottom-style:solid; border-bottom-color:black; border-left: solid; border-left-color:black;  border-right-style: solid; border-right-color:black; border-top-style: solid; border-top-color:black;
+}
+
+h1 {
+color: blue;
+}
+h2 {
+    color: white; background-color: steelblue;
+}
+span {
+    color: crimson;
+}
+p {
+    color: navy;
+}
+#eslrMenu {
+    color: crimson;
+}
+#topMenu {
+    color: blue;
+}
+#eagleBottom {
+    border-bottom-style:solid; border-bottom-color:black; border-left: solid; border-left-color:black;  border-right-style: solid; border-right-color:black; border-top-style: solid; border-top-color:black;
+>>>>>>> Jet
 }
